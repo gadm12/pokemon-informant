@@ -1,5 +1,7 @@
 # Pokémon Informant
 
+**[Live Demo](https://gadm12.github.io/pokemon-informant/)**
+
 A React-based Pokédex application that allows users to browse Pokémon, view detailed information, search by name or ID, and build a team of up to six Pokémon.
 
 This project was originally developed as a React assessment and demonstrates my ability to work with React components, client-side routing, external APIs, application state, conditional rendering, and end-to-end testing.
